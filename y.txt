@@ -1,0 +1,4 @@
+T2021H005@@@@katy@@@@laty@gmail.com@@@@Science@@@@2344@@@@Tuesday@@@@Denmark@@@@23/09/1992@@@@Female
+T2021H007@@@@Pranto Palit@@@@pranto.palit@northsouth.edu@@@@Java@@@@12112@@@@Tuesday@@@@Dhaka@@@@2/05/1994@@@@Male
+T2021H008@@@@Rajesh Palit@@@@rjp@gmail.com@@@@C++@@@@01772@@@@Sunday@@@@Bashundhara@@@@2/03/1985@@@@Male
+T2021H009@@@@rjp@@@@rjp@gmail.com@@@@Java@@@@211@@@@Sunday@@@@Bashundhara@@@@null@@@@Male
